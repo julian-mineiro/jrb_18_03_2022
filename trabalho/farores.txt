@@ -1,0 +1,10 @@
+tema: fatores humanos para acidente aereo
+escolher o acidente
+tempo apresentasao 10 minutos
+grupos 3-5 
+postar no git
+entregar 29/04/2022
+readme.md
+  imagens - imagem do grupo
+  descrição / nomes
+  etc...
